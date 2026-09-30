@@ -2,7 +2,7 @@
 #import socket
 import machine
 import utime
-#import secrets
+#import secrets <--there used to be a secrets.py file containing wifi credentials, but now it is useless, since the robot is working with usb
 #import gc
 import sys
 import select
