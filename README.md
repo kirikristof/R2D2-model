@@ -14,4 +14,7 @@ At first we wanted to make it wireless, but it turned out that is INSANELY hard,
   * also dont forget to turn the robot on with the switch hanging from the bottom (there are two holes at the bottom, one for the switch, the other for the USB),         otherwise the wheels won't work ;)
   * the batteries need to be removed for charging
   * The robot is capable of rolling forward and backwards, turning left and right, and rotating it's head. It also has a red and blue (red means low battery, blue means ok) , green and yellow LED (they change color depending on head position).
+
 **What have we learned?**
+
+_Lászlóffy Tamás_: My role was the 3D modelling and the designing. I learned the Fusion 360 management, the use of bluprints, methods of 3D printing, and of course the consequences of my small mistakes which only came to light during assembly. Optimizing the tolerance, figuring out modelling maneuvers and loopholes (especially R2's Dome); these were the most complicated ones. Of course I had some headaches or rage-quit moments; however, I enjoyed the process.
