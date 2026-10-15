@@ -6,13 +6,13 @@ At first we wanted to make it wireless, but it turned out that is INSANELY hard,
 
 **What does this project do, and how to use it?**
   It is really simple:
-  * you flash MycroPython onto the Raspberry Pi Pico W from the official site, download Thonny IDE on your PC, and upload the code you find here, in the *firmware* folder
-  * you plug the USB cable hanging from the bottom of the robot into your PC,
-  * you open the code (which is already uploaded on the Pico) in Thonny, and hit RUN
-  * you type w, a, s, d, q, e, z, and x from your keyboard into the Shell.
+  * You flash MycroPython onto the Raspberry Pi Pico W from the official site, download Thonny IDE on your PC, and upload the code you find here, in the *firmware* folder
+  * You plug the USB cable hanging from the bottom of the robot into your PC,
+  * You open the code (which is already uploaded on the Pico) in Thonny, and hit RUN
+  * You type w, a, s, d, q, e, z, and x from your keyboard into the Shell.
   * w means forward, s means backwards, q turns the head one way, e turns it the other way. x stops the head, z stops the wheels. With a you turn left, and with d        you turn right
-  * also dont forget to turn the robot on with the switch hanging from the bottom (there are two holes at the bottom, one for the switch, the other for the USB),         otherwise the wheels won't work ;)
-  * the batteries need to be removed for charging
+  * Also dont forget to turn the robot on with the switch hanging from the bottom (there are two holes at the bottom, one for the switch, the other for the USB),         otherwise the wheels won't work ;)
+  * The batteries need to be removed for charging
   * The robot is capable of rolling forward and backwards, turning left and right, and rotating it's head. It also has a red and blue (red means low battery, blue means ok) , green and yellow LED (they change color depending on head position).
 
 **What have we learned?**
@@ -23,8 +23,13 @@ _Benedek Kristóf_: My role was building the electronics, and coding. I've learn
 
 **What have we changed?**
 During the process we had to change some things (Because we overestimated our capabilities at the moment) Here's a list of them:
-* we omitted the wireless feature due to a lack of time and skills (I'm planning to implement it in the future)
-* we omitted the feature which would have shown the ip address with morse lights
-* we omitted the homing sequence for the head, because it works just fine without it, and it just adds unnecessary complexity
-* if the Pico operates with USB plugged in, then the buck converter I previously bought is useless too.
-* we left out sound systems because of a lack of time.
+* We omitted the wireless feature due to a lack of time and skills (I'm planning to implement it in the future).
+* We omitted the feature which would have shown the ip address with morse lights.
+* We omitted the homing sequence for the head, because it works just fine without it, and it just adds unnecessary complexity.
+* If the Pico operates with USB plugged in, then the buck converter I previously bought is useless too.
+* We left out sound systems because of a lack of time.
+* In our original plan, the V-groove was desgined for airsoft BBs to imitate a lazy-susan; however during testing, it turned out that the 28BYJ-48 Stepper Motor couldn't handle the unbearable friction. As a result we removed the BBs because the mechanism turned smoother without them.
+
+**Additional Note**
+*If the feet are wiggling during assmebly, you should duct tape it.
+  
