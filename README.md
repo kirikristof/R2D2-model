@@ -24,6 +24,9 @@ _Lászlóffy Tamás_: My role was the 3D modelling and the designing. I learned 
 
 _Benedek Kristóf_: My role was building the electronics, and coding. I've learned the basics of MicroPython, and understanding the basics of low-voltage, low-amperage DC circuits. I've had to learn soldering, understanding how the software communicates with hardware, and how to make the two understand each other. I've also learnt, that overengineering certain features just adds unnecessary complexity, and sometimes trying to make everything perfect at first is the one that causes the problems later on. Iáve also learnt the importance of time management, and communication between teammates.
 
+# CAD
+
+
 **What have we changed?**
 During the process we had to change some things (Because we overestimated our capabilities at the moment) Here's a list of them:
 * We omitted the wireless feature due to a lack of time and skills (I'm planning to implement it in the future).
