@@ -25,6 +25,8 @@ _Lászlóffy Tamás_: My role was the 3D modelling and the designing. I learned 
 _Benedek Kristóf_: My role was building the electronics, and coding. I've learned the basics of MicroPython, and understanding the basics of low-voltage, low-amperage DC circuits. I've had to learn soldering, understanding how the software communicates with hardware, and how to make the two understand each other. I've also learnt, that overengineering certain features just adds unnecessary complexity, and sometimes trying to make everything perfect at first is the one that causes the problems later on. Iáve also learnt the importance of time management, and communication between teammates.
 
 # CAD
+<img width="1080" height="642" alt="Stardance_projekt-R2D2_Torzo_2026-Oct-15_07-09-05PM-000_CustomizedView6091819401" src="https://github.com/user-attachments/assets/e6060817-586f-4951-82be-5a7c22913694" />
+<img width="751" height="777" alt="Exploded view R2" src="https://github.com/user-attachments/assets/f3d893e5-8b03-4d8c-a9df-9b473e85089e" />
 
 
 **What have we changed?**
