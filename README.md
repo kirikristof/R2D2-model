@@ -32,6 +32,10 @@ _Benedek Kristóf_: My role was building the electronics, and coding. I've learn
 
 <img width="3318" height="2438" alt="20261015_204230" src="https://github.com/user-attachments/assets/aa56efc1-5adb-4941-ac0c-941398cf73df" />
 
+# BOM
+
+<img width="1277" height="688" alt="Képernyőfelvétel (66)" src="https://github.com/user-attachments/assets/cdbc52b0-7af2-44ee-864e-3fa1efe95619" />
+
 
 **What have we changed?**
 During the process we had to change some things (Because we overestimated our capabilities at the moment) Here's a list of them:
