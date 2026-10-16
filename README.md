@@ -46,10 +46,13 @@ During the process we had to change some things (Because we overestimated our ca
 * We left out sound systems because of a lack of time.
 * In our original plan, the V-groove was desgined for airsoft BBs to imitate a lazy-susan; however during testing, it turned out that the 28BYJ-48 Stepper Motor couldn't handle the unbearable friction. As a result we removed the BBs because the mechanism turned smoother without them.
 
-**Additional Note**
-*If the feet are wiggling during assmebly, you should duct tape it.
+# Additional Note
+
+If the feet are wiggling during assmebly, you should duct tape it.
 
 **Special Thanks**
+*To the Hack Club Admins for their guidance and help
+*To the Hack Club members on Slack for their usefull replies
 *_Electro Nerds Academy_ Youtube Channel
 *_Product Design Online_ Youtube Channel 
 * _Wokwi’s Raspberry Pi Pico simulator_
