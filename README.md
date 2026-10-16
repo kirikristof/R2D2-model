@@ -49,6 +49,6 @@ During the process we had to change some things (Because we overestimated our ca
 *_Electro Nerds Academy_ Youtube Channel
 *_Product Design Online_ Youtube Channel 
 * _Wokwi’s Raspberry Pi Pico simulator_
-* _Get Started with MicroPython on Raspberry Pi Pico_PDF book
+* _Get Started with MicroPython on Raspberry Pi Pico_ PDF book
 * many more youtube channels, and videos
   
