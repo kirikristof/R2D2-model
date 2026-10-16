@@ -44,19 +44,20 @@ During the process we had to change some things (Because we overestimated our ca
 * We omitted the homing sequence for the head, because it works just fine without it, and it just adds unnecessary complexity.
 * If the Pico operates with USB plugged in, then the buck converter I previously bought is useless too.
 * We left out sound systems because of a lack of time.
-* In our original plan, the V-groove was desgined for airsoft BBs to imitate a lazy-susan; however during testing, it turned out that the 28BYJ-48 Stepper Motor couldn't handle the unbearable friction. As a result we removed the BBs because the mechanism turned smoother without them.
+* In our original plan, the V-groove was designed for airsoft BBs to imitate a lazy-susan; however during testing, it turned out that the 28BYJ-48 Stepper Motor couldn't handle the unbearable friction. As a result we removed the BBs because the mechanism turned smoother without them.
 
 # Additional Note
 
-If the feet are wiggling during assmebly, you should duct tape it.
+If the feet are wiggling during assembly, you should duct tape it.
 
 # Special Thanks
 
 * To the Hack Club Admins for their guidance and help
-* To the Hack Club members on Slack for their usefull replies
-* _Electro Nerds Academy_ Youtube Channel
-* _Product Design Online_ Youtube Channel 
+* To the Hack Club members on Slack for their useful replies
+* _Electro Nerds Academy_ YouTube Channel
+* _Product Design Online_ YouTube Channel 
 * _Wokwi’s Raspberry Pi Pico simulator_
 * _Get Started with MicroPython on Raspberry Pi Pico_ PDF book
-* many more youtube channels, and videos
+* **Astromech.net** for the impeccable blueprints
+* ...and many more YouTube channels and videos
   
