@@ -40,4 +40,9 @@ During the process we had to change some things (Because we overestimated our ca
 
 **Additional Note**
 *If the feet are wiggling during assmebly, you should duct tape it.
+**Special Thanks**
+*_Electro Nerds Academy_ youtube channel
+* _Wokwi’s Raspberry Pi Pico simulator_
+* _Get Started with MicroPython on Raspberry Pi Pico_PDF book
+* many more youtube channels, and videos
   
