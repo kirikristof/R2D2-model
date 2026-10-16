@@ -52,10 +52,10 @@ If the feet are wiggling during assmebly, you should duct tape it.
 
 # Special Thanks
 
-*To the Hack Club Admins for their guidance and help
-*To the Hack Club members on Slack for their usefull replies
-*_Electro Nerds Academy_ Youtube Channel
-*_Product Design Online_ Youtube Channel 
+* To the Hack Club Admins for their guidance and help
+* To the Hack Club members on Slack for their usefull replies
+* _Electro Nerds Academy_ Youtube Channel
+* _Product Design Online_ Youtube Channel 
 * _Wokwi’s Raspberry Pi Pico simulator_
 * _Get Started with MicroPython on Raspberry Pi Pico_ PDF book
 * many more youtube channels, and videos
