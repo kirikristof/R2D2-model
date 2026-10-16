@@ -50,7 +50,7 @@ During the process we had to change some things (Because we overestimated our ca
 
 If the feet are wiggling during assmebly, you should duct tape it.
 
-**Special Thanks**
+# Special Thanks
 *To the Hack Club Admins for their guidance and help
 *To the Hack Club members on Slack for their usefull replies
 *_Electro Nerds Academy_ Youtube Channel
