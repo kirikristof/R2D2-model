@@ -1,6 +1,8 @@
 # R2D2-model
 <img width="3000" height="4000" alt="16083" src="https://github.com/user-attachments/assets/55b7023d-0e51-4f7c-a882-3057224f9302" />
 
+*You can see it work [here](https://youtu.be/NlnMAyXWQV0?is=HJiQXZiAOPkRwz0f) ;)*
+
 A simple, 3D printed fan-made R2D2 replica, capable of rolling, turning its head, and equipped with few LEDs.
 
 We started this project as complete beginners, to keep us occupated in the summer, and to spend time doing something actually useful.
