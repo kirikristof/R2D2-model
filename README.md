@@ -63,7 +63,5 @@ If the feet are wiggling during assembly, you should duct tape it.
 * **Astromech.net** for the impeccable blueprints
 * ...and many more YouTube channels and videos
 # Disclaimer:
-This is an unofficial, fan made replica, and it is not affiliated with, endorsed, sponsored, or specifically approved by Lucasfilm Ltd., Disney, or any of their affiliates.
-* **Trademarks:** *Star Wars* and *R2-D2* are registered trademarks of Lucasfilm Ltd. LLC and Walt Disney Studios.
-* **Non-Commercial:** This repository is strictly for personal, educational, and non-commercial fan use.
-* **No Warranty:** All code and hardware schematics are provided "as-is" without warranty of any kind.
+This is an unofficial, fan made replica, only for educational purposes, and it has nothing to do with Lucasfilm Ltd., or Disney
+The term R2-D2 and all related Star Wars elements belong to Lucasfilm Ltd., and Disney
